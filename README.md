@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="card.gif" width="100%" style="max-width:800px" alt="GhostLLC">
+  <img src="card.gif" width="100%" style="max-width:800px" alt="gjj-star">
 </p>
 
 <p align="center">
-  <a href="https://ghostllc04.vercel.app"><img src="https://img.shields.io/badge/Website-ghostllc04.vercel.app-3b8beb?style=flat-square&logo=vercel"></a>
-  <a href="https://github.com/ghostLLC"><img src="https://img.shields.io/badge/GitHub-ghostLLC-3b8beb?style=flat-square&logo=github"></a>
-  <a href="https://space.bilibili.com/456595757"><img src="https://img.shields.io/badge/Bilibili-Ghost__雲里看晚星-00A1D6?style=flat-square&logo=bilibili"></a>
-  <a href="https://steamcommunity.com/id/llc1203/"><img src="https://img.shields.io/badge/Steam-llc1203-1a56b8?style=flat-square&logo=steam"></a>
-  <a href="https://www.douyin.com/user/MS4wLjABAAAANsRi16n-D4Q17Qkd4r3dhRAbf4NiQU6W6orjZ1y-rMzZuaJBnUDz1VnZhHt16HSO"><img src="https://img.shields.io/badge/抖音-Ghost__晚星-7eb8ff?style=flat-square&logo=tiktok"></a>
+  <a href="https://github.com/gjj-star"><img src="https://img.shields.io/badge/GitHub-gjj--star-3b8beb?style=flat-square&logo=github"></a>
 </p>
 
 ---
@@ -33,8 +29,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghostLLC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060d1a&title_color=7eb8ff&icon_color=3b8beb&text_color=c8ddf8" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostLLC&layout=compact&theme=tokyonight&hide_border=true&bg_color=060d1a&title_color=7eb8ff&text_color=c8ddf8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gjj-star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060d1a&title_color=7eb8ff&icon_color=3b8beb&text_color=c8ddf8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjj-star&layout=compact&theme=tokyonight&hide_border=true&bg_color=060d1a&title_color=7eb8ff&text_color=c8ddf8" height="160"/>
 </p>
 
 ---
